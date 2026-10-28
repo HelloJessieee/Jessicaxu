@@ -157,6 +157,7 @@ main { min-width: 0; padding-top: 4px; }
 }
 .entry-main h3 { margin: 0; font-size: 17px; line-height: 1.5; font-weight: 600; }
 .entry-main p { margin: 0; color: var(--muted); font-size: 15px; }
+.entry-main .entry-detail { margin-top: 8px; color: var(--text); font-size: 14px; }
 .entry-category {
   color: var(--faint);
   font-family: Arial, Helvetica, sans-serif;
